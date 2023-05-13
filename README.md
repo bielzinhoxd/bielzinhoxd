@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gabriel da Silva
+### Olá, sou o Gabriel
 
 - 🌱 Estudante Analise e desenvolvimento de Sistemas
 <div align="center">
