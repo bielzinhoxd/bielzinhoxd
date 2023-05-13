@@ -1,6 +1,6 @@
 ### Olá, sou o Gabriel
 
-- 🌱 Estudante Analise e desenvolvimento de Sistemas
+-  Estudante Analise e desenvolvimento de Sistemas
 <div align="center">
   <a href="https://github.com/bielzinhoxd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bielzinhoxd&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
