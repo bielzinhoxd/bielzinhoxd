@@ -1,6 +1,6 @@
 ### Olá, sou o Gabriel
 
--  Estudante Analise e desenvolvimento de Sistemas
+-  Analise e desenvolvimento de Sistemas
  
 <div style="display: inline_block"><br>
   <img align="center" alt="bielzinhoxd-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
